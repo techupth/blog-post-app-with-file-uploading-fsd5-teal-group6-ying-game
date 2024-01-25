@@ -228,3 +228,17 @@ button {
   outline: none;
   border: 5px solid var(--secondary-color);
 }
+.image-preview {
+  height: 250px;
+  width: 250px;
+}
+.avatar {
+  display: flex;
+  text-align: center;
+  border-radius: 30px;
+  background-color: var(--secondary-color);
+  padding: 20px;
+  width: 160px;
+  color: white;
+  
+}
